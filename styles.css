@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	background-color: beige;
+}
+#projects,#skills{
+	background-color: lightblue;
+}
